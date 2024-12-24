@@ -1,0 +1,8 @@
+.content-box-azul {
+    margin: 10px;
+    padding: 50px;
+    width: 800px;
+    height: 600px;
+    background-color: rgba(52, 77, 103, 0.95);
+    border-radius: 8px;
+}
